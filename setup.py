@@ -9,14 +9,14 @@ setup(
     author="Sonu Kumar",
     author_email="skrdeveloper1@gmail.com",
     description="Holiday and Trading Day Calendar for NIFTY",
-    url="https://github.com/skrdeveloper1/niftyTradeCalendar",
+    url="https://github.com/sonu-kumar-full-stack-dev/niftyTradeCalendar",
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent"
     ],
     project_urls={
-        "LinkedIn": "https://in.linkedin.com/in/skrdeveloper1",
-        "GitHub": "https://github.com/skrdeveloper1/niftyTradeCalendar",
+        "LinkedIn": "https://www.linkedin.com/in/sonu-kumar-full-stack-dev",
+        "GitHub": "https://github.com/sonu-kumar-full-stack-dev/niftyTradeCalendar",
     },
     python_requires=">=3.6",
 )
