@@ -19,3 +19,6 @@ def get_weekly_expiry_dates(year: int, symbol="NIFTY"):
     thursdays = get_all_thursdays(year)
     adjusted = [adjust_expiry_to_working_day(d) for d in thursdays]
     return adjusted
+
+def hello():
+    return "Hello from niftyTradeCalendar!"
