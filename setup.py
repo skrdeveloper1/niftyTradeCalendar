@@ -19,4 +19,3 @@ setup(
     },
     python_requires=">=3.6",
 )
-https://in.linkedin.com/in/skrdeveloper1
